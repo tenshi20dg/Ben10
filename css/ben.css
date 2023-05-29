@@ -32,6 +32,7 @@ main{
 }
 main img {
 	max-width: 800px;
+	margin: 0;
 }
 h2{
 	background-color: #28B463;
